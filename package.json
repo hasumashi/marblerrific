@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babylonjs/core": "^4.1.0",
+    "eslint": "^7.10.0",
     "parcel": "^1.12.4"
   }
 }
